@@ -29,6 +29,7 @@
   skos:hasTopConcept <http://purl.org/extract/>, extract:Location, extract:TerrainType,
     extract:Topography, extract:WaterDepthCategory;
   skos:inScheme <http://purl.org/extract/>;
+  skos:prefLabel "EXTRACT"@en;
   skos:topConceptOf <http://purl.org/extract/> .
 
 extract:Location a skos:Concept;
